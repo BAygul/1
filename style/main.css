@@ -1,0 +1,200 @@
+body{
+    padding-top:50px;
+}
+
+
+
+.navbar-inner .container{
+    background-color:rgba(215,220,245,0.5);
+}
+
+.navbar-header button{
+    background:#34B33B;
+}
+
+.nav-tabs a{
+    font-size:16px;
+    font-weight: bold;
+    color:#333;
+}
+
+
+li .active{
+    background:#34B33B;
+    color: #FFF;
+}
+
+.container .color1{
+    background:#34B33B;
+    padding: 20px;
+}
+
+.contacts{
+    text-align: center;
+}
+.contacts .contact{
+    font-size: 20px;
+    color: #FFF;
+}
+.contacts h3{
+    font-size: 30px;
+    color:#FFF;
+}
+
+
+button.submit {
+    background-color: #68b12f;
+    background: -webkit-gradient(linear, left top, left bottom, from(#68b12f), to(#50911e));
+    background: -webkit-linear-gradient(top, #68b12f, #50911e);
+    background: -moz-linear-gradient(top, #68b12f, #50911e);
+    background: -ms-linear-gradient(top, #68b12f, #50911e);
+    background: -o-linear-gradient(top, #68b12f, #50911e);
+    background: linear-gradient(top, #68b12f, #50911e);
+    border: 1px solid #509111;
+    border-bottom: 1px solid #5b992b;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    box-shadow: inset 0 1px 0 0 #9fd574;
+    -webkit-box-shadow: 0 1px 0 0 #9fd574 inset ;
+    -moz-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -ms-box-shadow: 0 1px 0 0 #9fd574 inset;
+    -o-box-shadow: 0 1px 0 0 #9fd574 inset;
+    color: white;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+}
+button.submit:hover {
+    opacity:.85;
+    cursor: pointer;
+}
+button.submit:active {
+    border: 1px solid #20911e;
+    box-shadow: 0 0 10px 5px #356b0b inset;
+    -webkit-box-shadow:0 0 10px 5px #356b0b inset ;
+    -moz-box-shadow: 0 0 10px 5px #356b0b inset;
+    -ms-box-shadow: 0 0 10px 5px #356b0b inset;
+    -o-box-shadow: 0 0 10px 5px #356b0b inset;
+}
+
+.container .color2{
+    background:#269abc;
+   padding: 25px;
+}
+.color2 img{
+    border: 2px solid #FFF;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.color2 h4,p{
+    color: #FFF;
+}
+
+.color2 h4{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container .color3{
+    background:#FC9628;
+    text-align: center;
+    padding: 15px;
+}
+
+.color3 img{
+    margin: 25px 15px 25px 15px;
+    border: 2px solid #FFF;
+    border-radius: 3px;
+}
+
+.color3 h3{
+    color: #FFF;
+}
+
+.container .color4{
+   text-align: center;
+    padding: 15px;
+}
+
+.color4 img{
+    border: 2px solid green;
+    border-radius: 3px;
+}
+
+.color4 figure{
+    display: inline-block;
+    margin: 25px 15px 10px 15px;
+}
+figure figcaption{
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+.color5{
+    text-align: center;
+}
+.container .color6{
+   border-top: 1px solid rgba(215,220,245,0.9);
+   padding-top: 25px;
+    padding-bottom: 25px;
+    background:rgba(215,220,245,0.5);
+    text-align: center;
+}
+
+.color6 .text-info h3{
+   padding-bottom: 10px;
+    color: #101010;
+    font-weight: bold;
+}
+
+.text-info p {
+    color: #101010;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.color7{
+    background: green;
+}
+
+.color7 .data{
+    padding-top: 25px;
+    margin-left: 25px;
+}
+.color7 img{
+    padding-left: 20px;
+}
+.color7 a{
+    color: #FFF;
+    padding-left: 20px;
+}
+
+
+.navbar-inner a{
+    transition: .5s linear;
+}
+
+form {
+    border: 2px solid  rgba(215,220,245,.9);
+    border-radius: 15px;
+    padding:0 15px 5px 15px;
+    background: rgba(215,220,245,.8) ;
+
+}
+form {
+    text-align: center;
+}
+
+
+
+
+
+
+
